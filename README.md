@@ -11,7 +11,7 @@
 </h1>
     <!-- Add/Remove categories depending on your project -->
   <p align="center">
-    Notebooks from the free-to-audit Machine Learning Specialization
+    Notebooks from the Machine Learning Specialization
     <br />
     <!-- IMPORTANT NOTE: If you want to append emojis you'll need to add the '-' sign before and after the header, as shown below:  -->
     <a href="#-modules-">Modules</a>
@@ -20,30 +20,50 @@
   </p>
 </div>
 
-#BreakIntoAI with the free-to-audit [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction). 
-Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng.
+Break into AI with the free-to-audit [Machine Learning Specialization][MACHINE_LEARNING_SPECIALIZATION_URL].
+Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program
+by AI visionary Andrew Ng.
+
+**What you'll learn:**
+- **Build ML models with NumPy & scikit-learn**  
+  - Build & train supervised models for prediction & binary classification tasks (linear, logistic regression)
+
+- **Build & train a neural network with TensorFlow**  
+  - Perform multi-class classification  
+  - Build & use decision trees & tree ensemble methods  
+
+- **Apply best practices for ML development**  
+  - Use unsupervised learning techniques, including clustering & anomaly detection  
+
+- **Build recommender systems**  
+  - Use a collaborative filtering approach  
+  - Implement a content-based deep learning method  
+  - Build a deep reinforcement learning model  
 
 
 ## 🚀 Modules 🚀
 
-### COURSE 1
-### Supervised Machine Learning: Regression and Classification
+### Course 1 - [Supervised Machine Learning: Regression and Classification][SUPERVISED_LEARNING_COURSE_URL]
 
 In the first course of the Machine Learning Specialization, you will:
-- Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
-- Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression
 
-### COURSE 2
-### Advanced Learning Algorithms
+- Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
+- Build and train supervised machine learning models for prediction and binary classification tasks, including linear
+  regression and logistic regression
+
+### Course 2 - [Advanced Learning Algorithms][ADVANCED_LEARNING_COURSE_URL]
 
 In the second course of the Machine Learning Specialization, you will:
+
 - Build and train a neural network with TensorFlow to perform multi-class classification
-- Apply best practices for machine learning development so that your models generalize to data and tasks in the real world
+- Apply best practices for machine learning development so that your models generalize to data and tasks in the real
+  world
 - Build and use decision trees and tree ensemble methods, including random forests and boosted trees
 
-### COURSE 3
-### Unsupervised Learning, Recommenders, Reinforcement Learning
+### Course 3 - [Unsupervised Learning, Recommenders, Reinforcement Learning][UNSUPERVISED_LEARNING_COURSE_URL]
+
 In the third course of the Machine Learning Specialization, you will:
+
 - Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.
 - Build recommender systems with a collaborative filtering approach and a content-based deep learning method.
 - Build a deep reinforcement learning model.
@@ -78,3 +98,11 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org/>
 ```
+
+[MACHINE_LEARNING_SPECIALIZATION_URL]: https://www.coursera.org/specializations/machine-learning-introduction#courses
+
+[SUPERVISED_LEARNING_COURSE_URL]: https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction
+
+[ADVANCED_LEARNING_COURSE_URL]: https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction
+
+[UNSUPERVISED_LEARNING_COURSE_URL]: https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction
